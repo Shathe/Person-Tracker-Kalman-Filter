@@ -1,5 +1,4 @@
 # Person-Tracker-Kalman-Filter
-Read PDF files
 
 Guión del trabajo realizado -> Guión (Qué se ha hecho).pdf
 
